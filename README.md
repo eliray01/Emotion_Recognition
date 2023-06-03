@@ -37,6 +37,8 @@ from utils.utils import ppg_findpeaks_bishop, rr_interval,\
 
 ## Supervisor
 
-Research fellow, fut.PhD Alshanskaia Evgenia Igorevna 
+`#0969DA
+Research fellow, fut.PhD Alshanskaia Evgenia Igorevna
+`
 
    [TSFresh]: <https://tsfresh.com/>
