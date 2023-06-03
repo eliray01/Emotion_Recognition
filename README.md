@@ -1,5 +1,3 @@
-`#000000`
-
 # Emotion recognition
 ## Based on ECG, PPG and SGR
 
