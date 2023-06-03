@@ -1,3 +1,5 @@
+`#000000`
+
 # Emotion recognition
 ## Based on ECG, PPG and SGR
 
@@ -37,8 +39,7 @@ from utils.utils import ppg_findpeaks_bishop, rr_interval,\
 
 ## Supervisor
 
-`#0969DA
 Research fellow, fut.PhD Alshanskaia Evgenia Igorevna
-`
+
 
    [TSFresh]: <https://tsfresh.com/>
